@@ -51,4 +51,9 @@ main {
 }
 nav {
   height: 50vh;
+  width: 18%;
+}
+nav,
+article {
+  height: 69vh;
 }
